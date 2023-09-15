@@ -289,7 +289,6 @@ textarea {
   background: linear-gradient(to right, #da22ffb9, #9733eeba),url(../../assets/svg/bg2.jpg);
   background-position: center;
   height: 100vh;
-  min-height: 80rem;
   max-height: 120rem;
   position: relative;
 }
